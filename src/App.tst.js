@@ -1,4 +1,4 @@
-import React from 'react';
+import { MobileAppShell } from "./components/layout/MobileAppShell";import React from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
 
